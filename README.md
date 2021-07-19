@@ -1,5 +1,5 @@
 
-<h2>Order Management System</h2> <br/> <br/>
+<h2>Order Management System</h2> 
 
 The Order management system is built in Python Django Framework for backend and HTML, CSS and JavaScript for web frontend.
 It has clean and interactive UI design for adding, editing and deleting products.
